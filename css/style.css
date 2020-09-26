@@ -16,6 +16,10 @@ body{
   font-family: 'Andika', sans-serif;
   background-size: cover ;
   background-position: center;
+  background-image: url("images/pigeon-background.JPEG");
+  background-repeat: no-repeat;
+  background-color: #DDDDDD;
+
 }
 
 main{
@@ -25,6 +29,8 @@ main{
 h1{
   color: #c12258;
   font-size: 2em;
+  line-height: 2;
+  text-align: center;
 }
 
 caption{
@@ -42,11 +48,19 @@ a{ font-size: 16px;
 
 }
 
+a:focus { outline: 3px dashed #417243; }
+
 table{
-    border: 2px solid #000000;
+    border-top: 2px solid #000000;
+    text-align: center;
+    padding: 10px;
+   
 }
 
 .colhead{
+  padding: 10px;
+  column-width: 125px;
+  
   background-color: #7e0830;
   color: #FFFFFF;
 }
@@ -67,7 +81,9 @@ tr{
 
 }
 
-thead tr:first-child th:first-child{}
+thead tr:first-child th:first-child{
+
+}
 
 footer{
   width:100%;
