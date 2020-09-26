@@ -12,8 +12,7 @@ Make sure to learn what the starter code does!!
 
 body{
   background-size: cover ;
-  background-image: url("pigeon-background.jpeg");
-  background-color: #DDDDDD;
+  background: url("images/pigeon-background.jpeg") #DDDDDD;
   background-repeat: no-repeat;
   background-position: center;
   color: #000000;
