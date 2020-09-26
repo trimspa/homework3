@@ -70,6 +70,12 @@ table{
   border-right-style: 2px solid #000000;
 }
 
+tr:nth-child(even){background-color:#D1D1D1;}
+
+tr:hover {background-color: #7e0820;
+ opacity: .25; 
+}
+
 td{
   text-align: center;
   padding: 10px;
@@ -86,6 +92,8 @@ tr{
 
 thead tr:first-child th:first-child{
 
+  
+
 }
 
 footer{
@@ -94,4 +102,3 @@ footer{
   text-align:center;
   color: #FFFFFF;
 }
-
