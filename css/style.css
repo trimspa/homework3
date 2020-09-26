@@ -95,8 +95,7 @@ tr{
 }
 
 thead tr:first-child th:first-child{
-
-  
+  border-radius: 10px;
 
 }
 
