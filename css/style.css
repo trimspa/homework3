@@ -41,8 +41,7 @@ p{
 
 }
 
-a{ 
-  font-size: 16px;
+a{ font-size: 16px;
   color: #b92751;
   text-decoration: wavy underline;
 
@@ -68,13 +67,12 @@ table{
 }
 
 .rowhead{
-  border: 2px solid #000000;
-
+  border-right-style: 2px solid #000000;
 }
 
 td{
   text-align: center;
-  padding: 10px 10px 10px 10px;
+  padding: 10px;
   border-top: 2px solid #000000;
 }
 
