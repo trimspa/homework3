@@ -41,36 +41,41 @@ p{
 
 }
 
-a{ font-size: 16px;
-    color: #b92751;
-    text-decoration: wavy underline;
+a{ 
+  font-size: 16px;
+  color: #b92751;
+  text-decoration: wavy underline;
 
 }
 
-a:focus { outline: 3px dashed #417243; }
+a:focus{ 
+  outline: 3px dashed #417243; 
+}
 
 table{
-    border-top: 2px solid #000000;
-    text-align: center;
-    padding: 10px;
+  border: 2px solid #000000;
 }
 
 .colhead{
-  column-width: 125px;
+  background-color: #7e0820;
+  color: #FFFFFF;
+  min-width: 125px;
   padding: 10px;
   text-transform: uppercase;
   text-align: center;
-  color: #FFFFFF;
-  background-color: #7e0830;
+  vertical-align: middle;
+  margin: auto;
 }
 
 .rowhead{
-  border:
+  border: 2px solid #000000;
 
 }
 
 td{
-  
+  text-align: center;
+  padding: 10px;
+  border-top: 2px solid #000000;
 }
 
 tr{
