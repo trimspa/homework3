@@ -8,17 +8,17 @@ There are some missing selectors.
 Make sure to learn what the starter code does!!
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Andika&display=swap');
 body{
   color: #000000;
   font-size: 16px;
   margin: 1.2em;
   font-family: 'Andika', sans-serif;
   background-size: cover ;
-  background:  #DDDDDD url("images/pigeon-background.jpeg");
+  background: #DDDDDD url("pigeon-background.jpeg");
   background-repeat: no-repeat;
   background-position: center;
 }
-
 
 main{
   margin-bottom: 100px;
@@ -52,18 +52,19 @@ table{
     border-top: 2px solid #000000;
     text-align: center;
     padding: 10px;
-   
 }
 
 .colhead{
-  padding: 10px;
   column-width: 125px;
-  
-  background-color: #7e0830;
+  padding: 10px 0;
+  text-transform: uppercase;
+  text-align: center;
   color: #FFFFFF;
+  background-color: #7e0830;
 }
 
 .rowhead{
+  border:
 
 }
 
@@ -89,4 +90,3 @@ footer{
   text-align:center;
   color: #FFFFFF;
 }
-
