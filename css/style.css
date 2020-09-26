@@ -22,7 +22,6 @@ body{
 
 }
 
-
 main{
   margin-bottom: 100px;
 }
@@ -55,6 +54,8 @@ a:focus{
 
 table{
   border: 2px solid #000000;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .colhead{
@@ -104,3 +105,4 @@ footer{
   text-align:center;
   color: #FFFFFF;
 }
+
