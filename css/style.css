@@ -36,6 +36,10 @@ caption{
   margin:5px 0px;
 }
 
+*:focus{ 
+  outline: 3px dashed #417243; 
+}
+
 p{
     padding:15px 0px 0px 0px;
 
@@ -47,9 +51,6 @@ a{ font-size: 16px;
 
 }
 
-*:focus{ 
-  outline: 3px dashed #417243; 
-}
 
 table{
   border: 2px solid #000000;
