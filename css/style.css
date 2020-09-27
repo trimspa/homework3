@@ -48,8 +48,6 @@ a{ font-size: 16px;
 
 }
 
-*:focus{ 
-  outline: 3px dashed #417243; 
 }
 
 table{
@@ -97,10 +95,8 @@ tr{
 
 }
 
-*{
-  box-sizing: border-box;
-
-}
+*:focus{ 
+  outline: 3px dashed #417243; 
 
 
 table tr:first-child th:first-child {
