@@ -88,7 +88,7 @@ tr:hover {background-color: #7e0820;
   border-right-style: 2px solid #000000;
 }
 
-td{
+th, td{
   text-align: center;
   padding: 10px;
   border-top: 2px solid #000000;
@@ -134,6 +134,7 @@ footer{
  text-align:center;
  color: #FFFFFF;
  position: absolute;
+ left: 0;
  bottom: 0;
  width: 100%;
  min-height: 75px;
