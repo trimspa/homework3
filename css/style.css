@@ -37,7 +37,7 @@ caption{
   margin:5px 0px;
 }
 
-a:focus{ 
+*:focus{ 
   outline: 3px dashed #417243; 
 }
 
