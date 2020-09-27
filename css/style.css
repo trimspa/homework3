@@ -59,6 +59,12 @@ table{
   border-radius: 10px;
 }
 
+thead {
+  text-align: center;
+  padding: 10px;
+  border-top: 2px solid #000000;
+}
+
 .colhead{
   background-color: #7e0820;
   color: #FFFFFF;
@@ -80,7 +86,7 @@ tr:hover {background-color: #7e0820;
  opacity: .25; 
 }
 
-td, th{
+td{
   text-align: center;
   padding: 10px;
   border-top: 2px solid #000000;
@@ -130,4 +136,3 @@ footer{
  width: 100%;
  min-height: 75px;
 }
-
