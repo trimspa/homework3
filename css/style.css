@@ -78,14 +78,14 @@ thead {
   margin: auto;
 }
 
-.rowhead{
-  border-right-style: 2px solid #000000;
-}
-
 tr:nth-child(even){background-color:#D1D1D1;}
 
 tr:hover {background-color: #7e0820;
  opacity: .25; 
+}
+
+.rowhead{
+  border-right-style: 2px solid #000000;
 }
 
 td{
@@ -138,3 +138,4 @@ footer{
  width: 100%;
  min-height: 75px;
 }
+
