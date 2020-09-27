@@ -76,7 +76,7 @@ thead {
   vertical-align: middle;
   margin: auto;
 }
-tbody tr:nth-child(even){background-color:#D1D1D1;}
+tr:nth-child(even){background-color:#D1D1D1;}
 
 tr:hover {background-color: #7e0820;
  opacity: .25; 
