@@ -76,9 +76,7 @@ thead {
 }
 tr:nth-child(even){background-color:#D1D1D1;}
 
-tr:hover {background-color: #7e0820;
- opacity: .25;
- color: #000000; 
+tr:hover {background-color: #7e0820 rgba(126, 8, 32,.25);
 }
 
 
