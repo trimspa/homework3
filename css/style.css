@@ -16,7 +16,7 @@ body{
   margin: 1.2em;
   font-family: 'Andika', sans-serif;
   background-size: cover ;
-  background: url(images/pigeon-background.jpeg) #DDDDDD;
+  background: url("images/pigeon-background.jpeg") #DDDDDD;
   background-position: center;
   background-repeat: no-repeat;
 
@@ -48,7 +48,7 @@ a{ font-size: 16px;
 
 }
 
-a:focus{ 
+*:focus{ 
   outline: 3px dashed #417243; 
 }
 
