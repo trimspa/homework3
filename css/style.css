@@ -88,7 +88,7 @@ tr:hover {background-color: #7e0820;
   border-right-style: 2px solid #000000;
 }
 
-th, td{
+td{
   text-align: center;
   padding: 10px;
   border-top: 2px solid #000000;
