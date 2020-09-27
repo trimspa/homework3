@@ -84,9 +84,6 @@ tr:hover {background-color: #7e0820;
  opacity: .25; 
 }
 
-.rowhead{
-  border-right-style: 2px solid #000000;
-}
 
 td{
   text-align: center;
@@ -94,6 +91,9 @@ td{
   border-top: 2px solid #000000;
 }
 
+.rowhead{
+  border-right-style: 2px solid #000000;
+}
 
 
 tr{
