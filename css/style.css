@@ -115,13 +115,6 @@ table tr:last-child td:last-child{
   border-bottom-right-radius: 10px;
 }
 
-thead tr:first-child th:first-child{
-  border-radius: 10px;
-}
-
-thead tr:first-child th:last-child {
-  border-top-right-radius: 10px;
-}
 
 footer{
  background:#000000;
