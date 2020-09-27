@@ -74,13 +74,8 @@ table{
   border-right-style: 2px solid #000000;
 }
 
-tr:nth-child(even){background-color:#D1D1D1;}
 
-tr:hover {background-color: #7e0820;
- opacity: .25; 
-}
-
-td{
+th, td{
   text-align: center;
   padding: 10px;
   border-top: 2px solid #000000;
@@ -92,9 +87,14 @@ tr{
 
 }
 
+tr:nth-child(even){background-color:#D1D1D1;}
+
+tr:hover {background-color: #7e0820;
+ opacity: .25; 
+}
+
 *{
   box-sizing: border-box;
-
 }
 
 table tr:first-child th:first-child {
@@ -130,4 +130,3 @@ footer{
  width: 100%;
  min-height: 75px;
 }
-
