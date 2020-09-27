@@ -122,13 +122,12 @@ thead tr:first-child th:last-child {
 }
 
 footer{
- width:100%;
- min-height: 75px;
  background:#000000;
  text-align:center;
  color: #FFFFFF;
- position: static;
+ position: absolute;
  bottom: 0;
  width: 100%;
+ min-height: 75px;
 }
 
