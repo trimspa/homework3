@@ -97,27 +97,27 @@ tr{
 }
 
 table tr:first-child th:first-child {
-  border-top-left-radius: 10px;
+  border-top-left-radius: 25px;
 }
 
 table tr:first-child th:last-child {
-  border-top-right-radius: 10px;
+  border-top-right-radius: 25px;
 }
 
 table tr:last-child td:first-child {
-  border-bottom-left-radius: 10px;
+  border-bottom-left-radius: 25px;
 }
 
 table tr:last-child td:last-child{
-  border-bottom-right-radius: 10px;
+  border-bottom-right-radius: 25px;
 }
 
 thead tr:first-child th:first-child{
-  border-radius: 10px;
+  border-radius: 50px;
 }
 
 thead tr:first-child th:last-child {
-  border-top-right-radius: 10px;
+  border-top-right-radius: 50px;
 }
 
 footer{
