@@ -47,6 +47,9 @@ a{ font-size: 16px;
 
 }
 
+*:focus{ 
+  outline: 3px dashed #417243; 
+}
 
 table{
   border: 2px solid #000000;
@@ -75,7 +78,8 @@ thead {
 tr:nth-child(even){background-color:#D1D1D1;}
 
 tr:hover {background-color: #7e0820;
- opacity: .25; 
+ opacity: .25;
+ color: #000000; 
 }
 
 
@@ -95,8 +99,9 @@ tr {
   padding: 10px;
 }
 
-*:focus{ 
-  outline: 3px dashed #417243; 
+*{
+  box-sizing: border-box;
+
 }
 
 thead tr:first-child th:first-child{
