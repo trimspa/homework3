@@ -93,7 +93,9 @@ td{
   border-bottom: 2px solid #000000;
 }
 
-tr{ 
+tr {
+  text-align: center;
+  padding: 10px;
 }
 
 *{
