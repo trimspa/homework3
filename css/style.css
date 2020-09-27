@@ -19,7 +19,6 @@ body{
   background: url("images/pigeon-background.jpeg") #DDDDDD;
   background-position: center;
   background-repeat: no-repeat;
-  border-collapse: collapse;
 
 }
 
@@ -84,7 +83,6 @@ tr:hover {background-color: #7e0820;
  opacity: .25; 
 }
 
-
 td{
   text-align: center;
   padding: 10px;
@@ -94,7 +92,6 @@ td{
 .rowhead{
   border-right-style: 2px solid #000000;
 }
-
 
 tr{
 
@@ -106,11 +103,11 @@ tr{
 }
 
 
-table tr:last-child td:first-child {
+tbody tr:last-child td:first-child {
   border-bottom-left-radius: 10px;
 }
 
-table tr:last-child td:last-child{
+tbody tr:last-child td:last-child{
   border-bottom-right-radius: 10px;
 }
 
