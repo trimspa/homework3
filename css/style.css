@@ -80,7 +80,7 @@ tr:hover {background-color: #7e0820;
  opacity: .25; 
 }
 
-td{
+td, th{
   text-align: center;
   padding: 10px;
   border-top: 2px solid #000000;
