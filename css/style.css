@@ -62,7 +62,6 @@ thead {
   color: #FFFFFF;
   text-align: center;
   padding: 10px;
-  border-radius: 10px;
 }
 
 .colhead{
@@ -97,10 +96,6 @@ tr {
   padding: 10px;
 }
 
-*{
-  box-sizing: border-box;
-
-}
 
 thead tr:first-child th:first-child{
   border-radius: 10px;
