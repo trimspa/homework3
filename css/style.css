@@ -97,7 +97,7 @@ tr {
 }
 
 
-table tr:last-child td:first-child {
+table tr:last-child th:first-child {
   border-bottom-left-radius: 10px;
 }
 
