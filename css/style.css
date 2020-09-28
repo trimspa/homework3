@@ -17,6 +17,7 @@ body{
   background-image: url("/homework3/images/pigeon-background.JPEG");
   background-color: #DDDDDD; 
   background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
 }
 
