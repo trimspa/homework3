@@ -14,7 +14,7 @@ body{
   font-size: 16px;
   margin: 1.2em;
   font-family: 'Andika', sans-serif;
-  background-image: url("./images/pigeon-background.JPEG") #DDDDDD; 
+  background-image: url("../images/pigeon-background.JPEG") #DDDDDD; 
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -88,7 +88,7 @@ td{
 
 .rowhead{
   border-right: 2px solid #000000;
-  border-bottom: 2px solid #000000;
+  border-top: 2px solid #000000;
 }
 
 tr {
