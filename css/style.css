@@ -106,12 +106,6 @@ thead tr:last-child th:last-child {
   border-top-right-radius: 10px;
 }
 
-table tr:last-child td:last-child {
-  border-bottom-right-radius: 10px;
-}
-
-table tr:first-child td:first-child {
-  border-bottom-left-radius: 10px;
 
 footer{
  background:#000000;
