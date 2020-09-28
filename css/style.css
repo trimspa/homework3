@@ -16,9 +16,9 @@ body{
   font-family: 'Andika', sans-serif;
   background-image: url("/homework3/images/pigeon-background.JPEG");
   background-color: #DDDDDD; 
+  background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
 }
 
 main{
